@@ -298,11 +298,11 @@ section {
                         transition: all .4s ease-in-out;
                         width: 60%;
                     }
-                    .html { width: 55%; }
-                    .css { width: 55%; }
-                    .js { width: 60%; }
-                    .react{ width: 60%; }
-                    .node{ width: 50%; }
+                    .html { width: 70%; }
+                    .css { width: 70%; }
+                    .js { width: 50%; }
+                    .react{ width: 70%; }
+                    .node{ width: 65%; }
                     .python{ width: 70%; }
                 }
             }
@@ -588,5 +588,5 @@ section {
         }
     }
 }
-
+}
 @import './media';
